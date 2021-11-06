@@ -5,7 +5,6 @@
 Here are some ideas to get you started:
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning ReactJS, React Native, NodeJS, Asp.Net Core MVC
-- 👯 I’m looking to collaborate on ...
 - 💬 Ask me about Anything with [Instagram](https://www.instagram.com/oguzceliko/)
 - 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/oguzhanceliko/)
 
