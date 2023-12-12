@@ -3,13 +3,13 @@
 ### I'm Oguzhan
 
 Here are some ideas to get you started:
+- 🌱 I’m currently working on React Projects
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning ReactJS, React Native, NodeJS, Java
 - 💬 Ask me about Anything with [Instagram](https://www.instagram.com/oguzceliko/)
 - 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/oguzhanceliko/)
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">  </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://camo.githubusercontent.com/f1ce1218eb39d7e7b6d246fb5ce1f6340158187e17ba462750de73e09cd8864f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765" alt="javascript" width="126" height="30"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://camo.githubusercontent.com/876426d64480dd18283dc72bcf0f293d6871c746d5358168e28565efc1c0334d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3631444146423f6c6f676f3d7265616374266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765" alt="react" width="87" height="30"/> </a>  <a href="https://nextjs.org/" target="_blank"> <img src="https://camo.githubusercontent.com/871833696562c330248da5f36eb1fdf13fafeab4430fb2beef1945495a7a9d38/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6578742d3030303030303f6c6f676f3d6e657874646f746a73266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765" alt="nextjs" width="80" height="30"/> </a> </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oguzhanceliko)](https://github.com/oguzhanceliko)
 
